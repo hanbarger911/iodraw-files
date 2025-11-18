@@ -4,18 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4mAmuo2qSb8rxuanCN2a-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="520" />
-              <mxPoint x="270" y="520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4mAmuo2qSb8rxuanCN2a-2" target="4mAmuo2qSb8rxuanCN2a-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-2" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;生产厂商&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="120" height="80" as="geometry" />
         </mxCell>
@@ -27,15 +15,6 @@
         </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-6" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;地址&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4mAmuo2qSb8rxuanCN2a-3" target="4mAmuo2qSb8rxuanCN2a-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="460" as="sourcePoint" />
-            <mxPoint x="440" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="450" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
