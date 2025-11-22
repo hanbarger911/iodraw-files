@@ -11,10 +11,13 @@
           <mxGeometry x="270" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wsxt-jq-iKqXHKJzLmEB-3" value="聘任" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="135" y="400" width="55" height="81.34" as="geometry" />
+          <mxGeometry x="160" y="350" width="55" height="81.34" as="geometry" />
         </mxCell>
         <mxCell id="wsxt-jq-iKqXHKJzLmEB-4" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wsxt-jq-iKqXHKJzLmEB-5" value="主裁判" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
