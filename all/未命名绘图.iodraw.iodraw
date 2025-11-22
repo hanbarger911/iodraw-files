@@ -44,9 +44,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="260" as="sourcePoint" />
             <mxPoint x="240" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="140" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6lwGVRkhfoWeRZ9JtNUL-4" target="4mAmuo2qSb8rxuanCN2a-16" edge="1">
@@ -106,11 +104,8 @@
             <mxPoint x="440" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-32" value="1：1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="250" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6lwGVRkhfoWeRZ9JtNUL-4" value="生产记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="310" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
