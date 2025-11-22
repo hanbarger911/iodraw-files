@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6lwGVRkhfoWeRZ9JtNUL-4" value="生产记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6lwGVRkhfoWeRZ9JtNUL-6" value="&lt;br&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品的信息&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
