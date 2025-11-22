@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4mAmuo2qSb8rxuanCN2a-3" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;厂商名称&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-5" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;电话&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-6" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;地址&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.583;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4mAmuo2qSb8rxuanCN2a-3" target="6lwGVRkhfoWeRZ9JtNUL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
