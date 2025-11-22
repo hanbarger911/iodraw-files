@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-3" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;厂商名称&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="110" y="460" width="60" height="120" as="geometry" />
+        <mxCell id="4mAmuo2qSb8rxuanCN2a-3" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;厂商名称&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-5" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;电话&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-6" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;地址&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="290" y="460" width="60" height="120" as="geometry" />
+        <mxCell id="4mAmuo2qSb8rxuanCN2a-6" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;地址&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6lwGVRkhfoWeRZ9JtNUL-7" target="4mAmuo2qSb8rxuanCN2a-3" edge="1">
+        <mxCell id="4mAmuo2qSb8rxuanCN2a-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.583;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4mAmuo2qSb8rxuanCN2a-3" target="6lwGVRkhfoWeRZ9JtNUL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="430" as="targetPoint" />
+            <mxPoint x="640" y="420" as="sourcePoint" />
+            <mxPoint x="520" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6lwGVRkhfoWeRZ9JtNUL-7" target="4mAmuo2qSb8rxuanCN2a-6" edge="1">
+        <mxCell id="4mAmuo2qSb8rxuanCN2a-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4mAmuo2qSb8rxuanCN2a-6" target="6lwGVRkhfoWeRZ9JtNUL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="430" as="targetPoint" />
+            <mxPoint x="640" y="420" as="sourcePoint" />
+            <mxPoint x="520" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4mAmuo2qSb8rxuanCN2a-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4mAmuo2qSb8rxuanCN2a-5" target="6lwGVRkhfoWeRZ9JtNUL-7" edge="1">
+        <mxCell id="4mAmuo2qSb8rxuanCN2a-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6lwGVRkhfoWeRZ9JtNUL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="380" as="sourcePoint" />
-            <mxPoint x="320" y="400" as="targetPoint" />
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="680" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4mAmuo2qSb8rxuanCN2a-14" value="&#xa;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&#xa;mso-bidi-font-family:PMingLiU;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;生产数量&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -92,8 +92,8 @@
         <mxCell id="6lwGVRkhfoWeRZ9JtNUL-6" value="&lt;br&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;产品的信息&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6lwGVRkhfoWeRZ9JtNUL-7" value="&lt;br&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;生产厂商&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="60" height="120" as="geometry" />
+        <mxCell id="6lwGVRkhfoWeRZ9JtNUL-7" value="&lt;br&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;生产厂商&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
