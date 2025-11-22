@@ -10,8 +10,8 @@
         <mxCell id="wsxt-jq-iKqXHKJzLmEB-2" value="比赛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wsxt-jq-iKqXHKJzLmEB-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="310" width="80" height="80" as="geometry" />
+        <mxCell id="wsxt-jq-iKqXHKJzLmEB-3" value="" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="165" y="391.34" width="80" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
