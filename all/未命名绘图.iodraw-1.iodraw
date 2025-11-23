@@ -97,8 +97,11 @@
             <mxPoint x="-90" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bf6aN38F_k74p__REFwV-25" value="1：n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="bf6aN38F_k74p__REFwV-25" value="1：n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf6aN38F_k74p__REFwV-26" value="1：n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="535" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
