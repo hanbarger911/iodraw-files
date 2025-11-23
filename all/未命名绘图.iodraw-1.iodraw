@@ -40,6 +40,9 @@
         <mxCell id="bf6aN38F_k74p__REFwV-4" value="效力" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="-158.09" y="303.62" width="92.77" height="51.33" as="geometry" />
         </mxCell>
+        <mxCell id="bf6aN38F_k74p__REFwV-5" value="球员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
