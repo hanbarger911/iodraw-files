@@ -67,6 +67,9 @@
         <mxCell id="bf6aN38F_k74p__REFwV-17" value="赞助商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bf6aN38F_k74p__REFwV-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
