@@ -1,22 +1,22 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9ohJ2kdJ7W128-18V911">
-    <mxGraphModel dx="1217" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wsxt-jq-iKqXHKJzLmEB-1" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsxt-jq-iKqXHKJzLmEB-1" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wsxt-jq-iKqXHKJzLmEB-2" value="比赛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsxt-jq-iKqXHKJzLmEB-2" value="比赛" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wsxt-jq-iKqXHKJzLmEB-3" value="聘任" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="wsxt-jq-iKqXHKJzLmEB-3" value="聘任" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="160" y="350" width="55" height="81.34" as="geometry" />
         </mxCell>
-        <mxCell id="wsxt-jq-iKqXHKJzLmEB-4" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsxt-jq-iKqXHKJzLmEB-4" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wsxt-jq-iKqXHKJzLmEB-5" value="主裁判" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsxt-jq-iKqXHKJzLmEB-5" value="主裁判" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
