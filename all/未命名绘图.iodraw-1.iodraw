@@ -67,6 +67,9 @@
         <mxCell id="bf6aN38F_k74p__REFwV-12" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="545" width="90" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="bf6aN38F_k74p__REFwV-13" value="身份证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-278.09" y="560" width="88.09" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
