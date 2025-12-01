@@ -265,7 +265,7 @@
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-77" value="供应商编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-78" value="供应商名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-78" value="供应商手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-79" value="供应商编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
