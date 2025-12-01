@@ -179,22 +179,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-53" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="410" width="80" height="60" as="geometry" />
+          <mxGeometry x="820" y="410" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-54" value="结算" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0aWNyTyNW8ziEsGHIb4-32" target="F0aWNyTyNW8ziEsGHIb4-54">
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0aWNyTyNW8ziEsGHIb4-57" target="F0aWNyTyNW8ziEsGHIb4-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="280" as="sourcePoint" />
             <mxPoint x="450" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-56" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F0aWNyTyNW8ziEsGHIb4-54">
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-56" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0aWNyTyNW8ziEsGHIb4-54" target="F0aWNyTyNW8ziEsGHIb4-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="280" as="sourcePoint" />
             <mxPoint x="450" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0aWNyTyNW8ziEsGHIb4-32" target="F0aWNyTyNW8ziEsGHIb4-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="440" as="sourcePoint" />
+            <mxPoint x="630" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="425" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
