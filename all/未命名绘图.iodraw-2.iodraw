@@ -217,8 +217,17 @@
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-61" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="585" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-63" value="数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-64" value="数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-65" value="数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-66" value="数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
