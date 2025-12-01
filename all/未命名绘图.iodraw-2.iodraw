@@ -91,8 +91,14 @@
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-32" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="410" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-33" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-33" value="结算" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="415" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
