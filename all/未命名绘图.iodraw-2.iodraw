@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="120" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-4" value="电脑信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="410" width="60" height="60" as="geometry" />
+          <mxGeometry x="10" y="410" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="F0aWNyTyNW8ziEsGHIb4-13" target="F0aWNyTyNW8ziEsGHIb4-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-13" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="20" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-17" value="用户名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="70" width="80" height="40" as="geometry" />
