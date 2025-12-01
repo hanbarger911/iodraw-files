@@ -61,8 +61,8 @@
             <mxPoint x="430" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-24" value="密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="410" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
