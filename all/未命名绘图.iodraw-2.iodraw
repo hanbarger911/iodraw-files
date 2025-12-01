@@ -127,7 +127,7 @@
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-40" value="订单编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="540" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-41" value="订单编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-41" value="商品名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="540" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
