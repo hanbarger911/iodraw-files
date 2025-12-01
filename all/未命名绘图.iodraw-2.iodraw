@@ -262,7 +262,7 @@
             <mxPoint x="900" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0aWNyTyNW8ziEsGHIb4-77" value="供应商编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-77" value="供应商名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-78" value="供应商手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -270,6 +270,12 @@
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-79" value="供应商编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="380" as="sourcePoint" />
+            <mxPoint x="940" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
