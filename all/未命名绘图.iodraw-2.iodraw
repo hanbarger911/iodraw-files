@@ -224,10 +224,10 @@
           <mxGeometry x="860" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-65" value="商品单价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="605" width="80" height="40" as="geometry" />
+          <mxGeometry x="970" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-66" value="商品名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="747" y="545" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
