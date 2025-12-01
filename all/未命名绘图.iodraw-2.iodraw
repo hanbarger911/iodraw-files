@@ -214,6 +214,9 @@
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-59" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="425" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F0aWNyTyNW8ziEsGHIb4-61" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="420" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
