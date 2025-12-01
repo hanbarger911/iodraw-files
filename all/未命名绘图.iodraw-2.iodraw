@@ -218,19 +218,19 @@
           <mxGeometry x="980" y="585" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-63" value="商品注册编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="310" width="80" height="40" as="geometry" />
+          <mxGeometry x="710" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-64" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="310" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-65" value="商品单价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="310" width="80" height="40" as="geometry" />
+          <mxGeometry x="940" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-66" value="商品名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="545" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F0aWNyTyNW8ziEsGHIb4-69" value="商品注册编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="545" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
