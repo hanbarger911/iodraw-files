@@ -325,6 +325,9 @@
         <mxCell id="s9Vp-gNAxCeIl-8VOpd4-4" value="供应关系表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="700" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="s9Vp-gNAxCeIl-8VOpd4-6" value="商品照片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
