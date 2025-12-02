@@ -418,6 +418,12 @@
             <mxPoint x="1080" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s9Vp-gNAxCeIl-8VOpd4-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9Vp-gNAxCeIl-8VOpd4-4" target="s9Vp-gNAxCeIl-8VOpd4-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="490" as="sourcePoint" />
+            <mxPoint x="1140" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
