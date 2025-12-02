@@ -328,7 +328,7 @@
         <mxCell id="s9Vp-gNAxCeIl-8VOpd4-6" value="关系ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s9Vp-gNAxCeIl-8VOpd4-7" value="关系ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s9Vp-gNAxCeIl-8VOpd4-7" value="商品注册编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="800" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
